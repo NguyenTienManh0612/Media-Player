@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+        <file>qml/components/BaseButton.qml</file>
+        <file>qml/components/ScrollingText.qml</file>
+        <file>qml/components/StatusBar.qml</file>
+        <file>qml/screens/HomeMenuScreen.qml</file>
+        <file>qml/screens/HomeSetupScreen.qml</file>
+        <file>qml/helper/getCurrentDay.js</file>
+        <file>qml/helper/getCurrentTime.js</file>
+        <file>qml/components/VolumeSetting.qml</file>
+    </qresource>
+</RCC>

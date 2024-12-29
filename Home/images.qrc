@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/back-default.png</file>
+        <file>images/home-default.png</file>
+        <file>images/video-default.png</file>
+        <file>images/setting.png</file>
+        <file>images/music-default.png</file>
+        <file>images/default-coverArt.png</file>
+    </qresource>
+</RCC>

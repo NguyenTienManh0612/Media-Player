@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/pause.png</file>
+        <file>images/back-default.png</file>
+        <file>images/home-default.png</file>
+        <file>images/list.png</file>
+        <file>images/next.png</file>
+        <file>images/previous.png</file>
+        <file>images/play.png</file>
+        <file>images/default-coverArt.png</file>
+        <file>images/musiclist-playing.png</file>
+        <file>images/full-screen.png</file>
+    </qresource>
+</RCC>
